@@ -2,4 +2,4 @@
 
 TODO LIST 
 
-*March 6 Deadline* - midpoint showcase
+# March 6 Deadline # - midpoint showcase
