@@ -4,6 +4,7 @@ TODO LIST
 
 
 **March 6** - midpoint showcase
+
 [ ] fimga demo
 [ ] powerpoint presentation
 
